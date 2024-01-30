@@ -3,6 +3,8 @@
 <!--  -->A
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=19&pause=1000&random=false&width=435&lines=++++++++++++++++++!!!%E0%B6%B1%E0%B6%B8%E0%B7%9D+%E0%B6%B6%E0%B7%94%E0%B6%AF%E0%B7%8A%E0%B6%B0%E0%B7%8F%E0%B6%BA!!!;I'm+Geeth+Namal;Research+mode+Activated;Busy+Right+Now+!" alt="Typing SVG" /></a>
+
+<picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width=100px></picture>
 </p>
 
 
@@ -20,7 +22,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to listen
+- ⚡ Fun fact: 
 
 </br>
 </br>
@@ -37,6 +39,10 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+
+<picture><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 200px></picture>
+
+ ![](https://komarev.com/ghpvc/?username=GNSA171&label=Visitors+Count&color=brightgreen)
 </div>
 
 
