@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>!You are Welcome!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=19&pause=1000&random=false&width=435&lines=++++++++++++++++++!!!%E0%B6%B1%E0%B6%B8%E0%B7%9D+%E0%B6%B6%E0%B7%94%E0%B6%AF%E0%B7%8A%E0%B6%B0%E0%B7%8F%E0%B6%BA!!!;I'm+Geeth+Namal;Research+mode+Activated;Busy+Right+Now+!" alt="Typing SVG" /></a>
 
