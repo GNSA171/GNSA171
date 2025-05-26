@@ -1,31 +1,44 @@
 
-<h1 align="center"><b>!You are Welcome!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=19&pause=1000&random=false&width=435&lines=++++++++++++++++++!!!%E0%B6%B1%E0%B6%B8%E0%B7%9D+%E0%B6%B6%E0%B7%94%E0%B6%AF%E0%B7%8A%E0%B6%B0%E0%B7%8F%E0%B6%BA!!!;I'm+Geeth+Namal;Research+mode+Activated;Busy+Right+Now+!" alt="Typing SVG" /></a>
+<h1 align="center"><b>🌟 Welcome to My Digital Universe! 🌟</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width=100px></picture>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=20&duration=3000&pause=1000&center=true&vCenter=true&color=14F7FF&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Geeth+Namal;Research+Mode+%F0%9F%94%8D+Activated;Full-Stack+Developer+%7C+AI+Explorer;Always+Building+Something+Cool!">
+  </a>
 </p>
 
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width=100px>
+</picture>
 
 <br>
 
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About Me**
 
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px>
+</picture>
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+- 🔭 Currently working on AI-powered web applications
+- 🌱 Deep diving into **Three.js**, **Web3**, and **Machine Learning**
+- 💡 Passionate about turning ideas into functional code
+- 🚀 2025 Goals: Contribute more to open source & master 3D web graphics
+- ⚡ Fun fact: I can debug code in my dreams!
 
 <br>
+<br>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## 🛠️ **Tech Stack**
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: 
-
-</br>
-</br>
+```json
+{
+  "Languages": ["JavaScript", "Python", "PHP", "Java"],
+  "Frontend": ["React", "Three.js", "GSAP", "Tailwind"],
+  "Backend": ["Node.js", "Express", "Flask", "Laravel"],
+  "Databases": ["MySQL", "MongoDB", "Firebase"],
+  "Tools": ["Git", "Docker", "VS Code", "Figma"],
+  "Learning": ["WebGL", "Web3", "LLMs", "Rust"]
+}
 
 
 ### My GitHub Activity 
