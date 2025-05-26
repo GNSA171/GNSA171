@@ -23,7 +23,7 @@
 - 👯 Looking to collaborate on **innovative open-source projects**
 - 💬 Ask me about **JavaScript, React, or AI integrations**
 - 🚀 2025 Goals: **Launch 3 major open-source projects**
-- ⚡ Fun fact: **I can solve Rubik's cube in under 2 minutes**
+- ⚡ Fun fact: **I speak 3 languages and debug in my Dreams**
 
 ---
 
