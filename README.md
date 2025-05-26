@@ -73,7 +73,7 @@
 <div align="center">
   
 [![Live Demo](https://img.shields.io/badge/🌐-Live_Demo-00FFFF?style=for-the-badge&logo=three.js&logoColor=white)](https://gnsa171.github.io/Portfolio/#home)
-[![View Code](https://img.shields.io/badge/💻-Source_Code-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Portfolio)
+[![View Code](https://img.shields.io/badge/💻-Source_Code-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GNSA171/Portfolio)
 
 </div>
 
