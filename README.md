@@ -1,105 +1,103 @@
-<h1 align="center"><b>🌟 Welcome to My GitHub Universe! 🌟</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Geeth Namal
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&color=00FFD5&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Geeth+Namal;Full-Stack+Developer+%7C+AI+Enthusiast;Research+Mode+%F0%9F%94%8D+Activated;Let's+Build+Something+Awesome!" alt="Typing SVG">
-  </a>
-</p>
+**Web Developer · E-commerce Websites · Automation & AI Integrations**
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width="100">
-</p>
+Based in Sri Lanka · Working remotely
 
----
+I build websites and practical digital tools for businesses and community organizations. My work includes travel and chauffeur platforms, fashion storefronts, nonprofit websites, and applications in development.
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40"> **About Me**
+[Portfolio](https://gnsa171.github.io/Portfolio/) · [Discuss a project](mailto:dkgnsa171@gmail.com)
 
-<p align="left">
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" width="250"/>
-</p>
+## Production websites
 
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Deep diving into **Three.js, WebGL, and Machine Learning**
-- 👯 Looking to collaborate on **innovative open-source projects**
-- 💬 Ask me about **JavaScript, React, or AI integrations**
-- 🚀 2025 Goals: **Launch 3 major open-source projects**
-- ⚡ Fun fact: **I speak 3 languages and debug in my Dreams**
+### [CeylonDrive](https://ceylondrive.com/)
 
----
+[![CeylonDrive homepage preview](assets/previews/ceylondrive-preview.jpg)](https://ceylondrive.com/)
 
-## 🛠️ **Tech Stack**
+A Sri Lankan travel platform connecting visitors with private chauffeur services, airport transfers, tour guides, vehicles, and destination information.
 
-<div align="center">
+**Visible technology:** PHP routes, Bootstrap, jQuery, Google Maps.
 
-| Category       | Technologies                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| **Languages**  | JavaScript, Python, PHP, Java                                               |
-| **Frontend**   | React, Three.js, TailwindCSS, GSAP                                          |
-| **Backend**    | Node.js, Express, Flask, Laravel                                            |
-| **Databases**  | MySQL, MongoDB, Firebase                                                    |
-| **DevOps**     | Docker, Git, GitHub Actions                                                 |
-| **Learning**   | Web3, Blockchain, LLMs (Large Language Models)                              |
+### [Black Soul](https://blacksoul.lk/)
 
-</div>
+[![Black Soul homepage preview](assets/previews/blacksoul-preview.jpg)](https://blacksoul.lk/)
 
----
+A distinctive streetwear and music storefront combining merchandise discovery with an artist-led brand experience.
 
-## 🚀 **Featured Projects**
+**Visible technology:** Next.js, React, Vercel.
 
-<div align="center">
+### [Vellora Fashion](https://vellorafashion.online/)
 
-| [![AI Travel Planner](https://github-readme-stats.vercel.app/api/pin/?username=GNSA171&repo=travel-ai&theme=tokyonight)](https://github.com/GNSA171/travel-ai) | [![3D Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GNSA171&repo=3d-portfolio&theme=tokyonight)](https://github.com/GNSA171/3d-portfolio) |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![E-commerce Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=GNSA171&repo=ecom-dashboard&theme=tokyonight)](https://github.com/GNSA171/ecom-dashboard) | [![Chatbot Framework](https://github-readme-stats.vercel.app/api/pin/?username=GNSA171&repo=ai-chatbot&theme=tokyonight)](https://github.com/GNSA171/ai-chatbot) |
+[![Vellora Fashion homepage preview](assets/previews/vellora-preview.jpg)](https://vellorafashion.online/)
 
-</div>
+A fashion and lifestyle storefront with a curated visual identity spanning apparel, beauty, accessories, and editorial content.
 
----
+**Visible technology:** Next.js, React, Vercel.
 
-## 📊 **GitHub Stats**
+## In development
 
-<div align="center">
+These are public development previews, separate from my production work.
 
-| ![Geeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GNSA171&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GNSA171&theme=tokyonight&hide_border=true) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GNSA171&layout=compact&theme=tokyonight&hide_border=true)                     | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GNSA171&theme=tokyonight&hide_border=true) |
+| Project | Focus | Visible technology / hosting |
+| --- | --- | --- |
+| [Kasagala Young Buddhist Association](https://kasagala-yba.vercel.app/) | Community & nonprofit | React, Vite, Vercel |
+| [Ceylon C Tours](https://ceylonctours.netlify.app/) | Chauffeur & tour services | Next.js, React, Netlify |
+| [3S 3D Engineering Service](https://3s3d.netlify.app/) | Architecture & visualization | Next.js, React, Netlify |
+| [Facebook Post Scheduler](https://facebookpostscheduler.vercel.app/) | Social media workflow | Next.js, React, Vercel |
 
-</div>
+<details>
+<summary>Explore development previews</summary>
 
----
+### Kasagala Young Buddhist Association
 
-## 🎮 **Three.js Showcase**
+[![Kasagala Young Buddhist Association homepage preview](assets/previews/kasagala-yba-preview.jpg)](https://kasagala-yba.vercel.app/)
 
-<div align="center">
-  
-[![Live Demo](https://img.shields.io/badge/🌐-Live_Demo-00FFFF?style=for-the-badge&logo=three.js&logoColor=white)](https://gnsa171.github.io/Portfolio/#home)
-[![View Code](https://img.shields.io/badge/💻-Source_Code-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GNSA171/Portfolio)
+A community website for the Kasagala Young Buddhist Association, presenting its mission, charitable activities, programmes, and ways to participate.
 
-</div>
+### Ceylon C Tours
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GNSA171/GNSA171/main/assets/threejs-demo-preview.gif" alt="3D Demo" width="600">
-</p>
+[![Ceylon C Tours homepage preview](assets/previews/ceylonctours-preview.jpg)](https://ceylonctours.netlify.app/)
 
----
+A chauffeur and car-rental website presenting Sri Lankan travel services, a vehicle fleet, and a clear path to ride enquiries.
 
-## 🐍 **Contribution Snake**
+### 3S 3D Engineering Service
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GNSA171/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</div>
+[![3S 3D Engineering Service homepage preview](assets/previews/3s3d-preview.jpg)](https://3s3d.netlify.app/)
 
----
+A visual business website for architectural visualization and engineering services, built around project presentation and enquiry.
 
-## 🤝 **Connect With Me**
+### Facebook Post Scheduler
 
-<p align="center">
-  <a href="https://github.com/GNSA171"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:geethnamal.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+[![Facebook Post Scheduler homepage preview](assets/previews/facebook-scheduler-preview.jpg)](https://facebookpostscheduler.vercel.app/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GNSA171&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+A social media scheduling application in development, exploring a dashboard-led workflow for content planning and AI-assisted social tools.
+
+</details>
+
+Additional projects remain in private repositories and have not been publicly launched. Their source and unreleased details are not published here.
+
+## What I can help with
+
+- **Business websites:** responsive sites and interfaces tailored to a brand and its audience.
+- **E-commerce experiences:** storefronts, product presentation, and shopping interfaces.
+- **Automation:** focused Python utilities, file processing, document generation, and API integrations.
+- **AI prototypes:** bounded LLM integrations and local AI workflows.
+- **Existing applications:** scoped interface improvements, debugging, and maintenance.
+
+## Tools & interests
+
+**Web:** HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, Bootstrap
+
+**Automation & development:** Python, Git, GitHub, API integrations
+
+**Deployment experience:** Vercel, Netlify, GitHub Pages
+
+**Current interests:** local LLMs, AI-assisted developer tools, and practical workflow automation
+
+## Working together
+
+I start by understanding the problem, defining the scope, and agreeing on deliverables. Send your goal, current website or tools, timeline, and budget range to [dkgnsa171@gmail.com](mailto:dkgnsa171@gmail.com).
+
+[View portfolio](https://gnsa171.github.io/Portfolio/) · [Public repositories](https://github.com/GNSA171?tab=repositories)
+
+<sub>Previews captured October 28, 2026. Technology labels describe publicly visible framework, asset, route, or hosting signals; private backend details and development feature claims are not independently audited.</sub>
